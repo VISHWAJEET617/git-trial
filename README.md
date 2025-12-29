@@ -1,8 +1,9 @@
 # git-trial
 <br>
-#just learning git
+just learning git
 </br>
 <br>
-# thank u for reading 
+thank u for reading 
 </br>
+
 
